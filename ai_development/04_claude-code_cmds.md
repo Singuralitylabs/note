@@ -70,7 +70,7 @@ claude
 初回起動時には、ブラウザが開いてAnthropicアカウントでのログインを求められます。ログインが完了すると、ターミナルに戻ってClaude Codeが使える状態になります。
 
 <figure>
-<img src="../images/claude-code-run.png" width="800px" alt="Claude Code起動時の画面">
+<img src="images/04_claude-code_cmd/claude-code-run.png" width="800px" alt="Claude Code起動時の画面">
 <figcaption align="center">Claude Code起動時の画面</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Claude Codeがファイルの作成や編集を行う場合、実行前に確認
 毎回確認されるのが面倒な場合には、「2. Yes, allow all edits during this session (shift+tab)」を選択します。ファイルの新規作成や編集ではこちらがお勧めです。
 
 <figure>
-<img src="../images/claude-code-prompt1.png" width="800px" alt="Claude Code起動時の画面">
+<img src="images/04_claude-code_cmd/claude-code-prompt1.png" width="800px" alt="Claude Code起動時の画面">
 <figcaption align="center">ファイル操作の確認画面</figcaption>
 </figure>
 
@@ -291,7 +291,7 @@ AIは自動でファイルを検索して読み込むこともできますが、
 AIがアプリを作るにあたって必要な情報をこちらに確認したのちに、計画を提示し、アプリ開発を開始します。
 
 <figure>
-<img src="../images/claude-code-plan1.png" width="800px" alt="Claude Code起動時の画面">
+<img src="images/04_claude-code_cmd/claude-code-plan1.png" width="800px" alt="Claude Code起動時の画面">
 <figcaption align="center">planモードでの確認画面</figcaption>
 </figure>
 

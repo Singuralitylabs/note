@@ -23,13 +23,13 @@ AIコーディングエージェント（LLM）には「コンテキストウィ
 * AIによるツール実行（ファイル検索、コード編集等）の履歴
 * 最終的なアウトプット（メッセージ）
 
-<img src="../images/context-memory.png" width="800px">
+<img src="images/02_context.md/context-memory.png" width="800px">
 
 ## コンテキストエンジニアリングの4原則
 
 効率的な開発環境を構築するために、以下の4つのアプローチを組み合わせてコンテキストを最適化します。
 
-<img src="../images/four_context_engineering.png" width="800px">
+<img src="images/02_context.md/four_context_engineering.png" width="800px">
 
 ### 記述 (Write)
 
