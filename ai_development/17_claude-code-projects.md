@@ -137,7 +137,7 @@ Claude Codeには、複数の作業を同時に進める方式がいくつかあ
 
 <img src="images/17_claude-code-projects/parallel-approaches.png" width="800px" alt="Claude Codeの並列化5方式（Subagents・Agent view・Agent teams・Dynamic workflows・Projects）を、取りまとめ役・動く場所・続く期間・向いている場面・提供状況で比較した図">
 
-図中の「2026年9月時点」は、Projectsがパブリックベータとして公開された時点を指しています。
+図の比較内容は2026年9月時点の情報です。Projectsは同月にパブリックベータとして公開されました。
 
 - Subagents：1セッションの中でClaudeが委任し、結果を回収する
 - Agent view：自分が手元のマシンで複数のタスクを渡し、一覧で確認する
