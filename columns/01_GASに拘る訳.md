@@ -85,13 +85,16 @@ GAS受託開発へのこだわりは、単なる技術的な選択ではあり�
 ## 解説動画のご案内
 本内容の解説動画は、シンギュラリティ・ラボの公式Youtubeチャンネルで期間限定で公開しています（シンギュラリティ・ラボ会員は常に閲覧いただけます）。
 
-## プログラミングイベントのご案内
-毎月数回、GASを中心としたプログラミングを学べるオンライン講座を開催しております。直接学びたい方はぜひご参加ください。
-- 申し込みフォームはこちら
-- 過去のプログラミングイベントの紹介はこちら
+## Web技術体験会のご案内
+毎月数回、生成AIやプログラミング、その他様々なWeb技術を学べるオンライン講座を開催しております。直接学びたい方はぜひご参加ください。
+申し込みフォームは[こちら](https://docs.google.com/forms/d/e/1FAIpQLScCLBSCJvZEl7R15tCDTajcKa7INCTSOKPEXyfIEX69Q_xtEg/viewform)
+過去のWeb技術体験会の紹介は[こちら](https://sinlab.future-tech-association.org/school/)
 
 ## シンギュラリティ・ラボのご案内
-オンラインサロン「シンギュラリティ・ラボ」（通称シンラボ）では、GASも含めたプログラミングをはじめ、さまざまなITスキルやチーム開発について学び、実践する場を準備しております。初心者から経験者まで、どなたでも参加可能です。
+オンラインサロン「シンギュラリティ・ラボ」（通称シンラボ）では、AI駆動開発やプログラミング等のWeb技術やチーム開発について学び、実践する場を準備しております。 初心者から経験者まで、どなたでも参加可能です。
 少しでも興味がございましたらお気軽にお越しください。
-- シンギュラリティ・ラボHPはこちら
-- お問い合わせ先 sinlab-recruit@future-tech-association.org
+シンギュラリティ・ラボHPは[こちら](https://sinlab.future-tech-association.org/join/)
+お問い合わせ先 sinlab-recruit@future-tech-association.org
+
+## AIでWeb技術を学ぶサービス「Sinlab Study」のご案内
+読むだけで終わらせず、手を動かして身につけたい方へ。「Sinlab Study」では、動画で学び、演習を解き、AIレビューで確認するところまで一続きで学べます（ナビゲーターはシンラビ）。詳細は[解説サイト](https://sinlab.future-tech-association.org/sinlab-study)を、お試しは[こちら](https://study.future-tech-association.org)をご参照ください。
