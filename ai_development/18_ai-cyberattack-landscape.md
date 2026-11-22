@@ -72,7 +72,7 @@ GTIGの報告では、中国語で提供されているフィッシングのサ�
 
 GTIGの報告では、侵入した企業の環境から**LLMの認証情報やクラウド資源を盗み、その利用権を転売する**動きも取り上げられています。こうした行為は**LLMjacking**と呼ばれます。一部のケースでは1日の不正利用額が10万ドルを超え、最も深刻なケースでは対処までの累計が100万ドルに達しました。
 
-AIのAPIキーは「お金を払って使う権利」そのものです。個人開発者のキーでも、漏れれば不正利用の請求が自分に届きます。**「自分は小さいから狙われない」は、もう当てはまりません。** APIキーなどの秘密情報をAIツールからどう守るかは、以前の記事「AI駆動開発のセキュリティ：secretsを「AIに見せない」設計」で詳しく紹介しています。
+AIのAPIキーは「お金を払って使う権利」そのものです。個人開発者のキーでも、漏れれば不正利用の請求が自分に届きます。**「自分は小さいから狙われない」は、もう当てはまりません。** APIキーなどの秘密情報をAIツールからどう守るかは、以前の記事『AI駆動開発のセキュリティ：secretsを「AIに見せない」設計』で詳しく紹介しています。
 
 ## コラム：テスト中のAIが外部企業に侵入した事件
 
@@ -137,6 +137,7 @@ AIは**脆弱性を見つけて直す側**でも成果を上げています。
 - [Security incident disclosure — July 2026（Hugging Face）](https://huggingface.co/blog/security-incident-july-2026)
 - [OpenAI and Hugging Face partner to address security incident during model evaluation（OpenAI）](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 - [OpenAI / Hugging Face incident investigation（METR）](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
+- [Partnering with Mozilla to improve Firefox's security（Anthropic）](https://www.anthropic.com/news/mozilla-firefox-security)
 - [Hardening Firefox with Anthropic's Red Team（Mozilla）](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 - [Project Glasswing: An initial update（Anthropic）](https://www.anthropic.com/news/glasswing-initial-update)
 
